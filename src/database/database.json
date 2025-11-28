@@ -1,8 +1,8 @@
 {
     "users": [
         {
-            "username": "sirkeira",
-            "password": "2580",
+            "username": "root",
+            "password": "root",
             "role": "admin",
             "plan": "vip",
             "attacks_made": 11,
@@ -10,8 +10,8 @@
             "expires_at": "29/05/2028"
         },
         {
-            "username": "cirqueira",
-            "password": "258025",
+            "username": "nsec2025",
+            "password": "nullsec",
             "role": "user",
             "plan": "basic",
             "attacks_made": 0,
