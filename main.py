@@ -159,7 +159,7 @@ class SentinelaServer:
                     break
             
             # Solicitar senha
-            password = ''
+            password = 'root'
             while 1:
                 self.send(client, f'{Fore.LIGHTBLUE_EX}Password{Fore.LIGHTWHITE_EX}:{Fore.BLACK} ', False, False)
                 while not password.strip():
